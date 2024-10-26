@@ -1,1 +1,1 @@
-from .main import mean
+from .main import mean  # noqa: F401
